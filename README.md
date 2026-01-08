@@ -55,10 +55,9 @@ To analyze food order data and track key performance indicators (KPIs) such as T
 - Weekend days show peak sales and order volume
 - A small number of cities and states generate most of the revenue
 - Monthly sales trend shows consistent growth
-
-## Conclusion
-This project demonstrates how Excel can be effectively used for data analysis and visualization to derive actionable insights and support business decisions.
-
+- 
 ## Dashboard
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4013151e-cb0b-4c39-9142-6c175b7e8f4b" />
 
+## Conclusion
+This project demonstrates how Excel can be effectively used for data analysis and visualization to derive actionable insights and support business decisions.
