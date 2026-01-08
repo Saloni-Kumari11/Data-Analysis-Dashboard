@@ -4,7 +4,7 @@
 ### Swiggy Sales Dashboard | Excel Data Analysis Project
 This project focuses on analyzing Swiggy food delivery data to understand sales performance, customer behavior, and regional trends. An interactive dashboard was built using Microsoft Excel to convert raw data into meaningful business insights.
 
-## Dataset Used
+## Dashboard link
 - <ahref="https://github.com/Saloni-Kumari11/Data-Analysis-Dashboard/blob/main/Swiggy%20Dashboard.xlsx">Swiggy Dataset</a>
 
 #  Objective
