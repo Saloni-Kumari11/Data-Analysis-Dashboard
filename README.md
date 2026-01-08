@@ -8,11 +8,11 @@ This project focuses on analyzing Swiggy food delivery data to understand sales 
 To analyze food order data and track key performance indicators (KPIs) such as Total Sales, Average Order Value, Total Orders, and Customer Ratings to support data-driven decision-making.
 
 #  Tools & Technologies
-Microsoft Excel
-Pivot Tables & Pivot Charts
-Slicers
-Excel Formulas
-Map Visualization
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Slicers
+- Excel Formulas
+- Map Visualization
 
 # PROBLEM STATEMENT
 ## BRD: KPI'S
