@@ -5,7 +5,7 @@
 This project focuses on analyzing Swiggy food delivery data to understand sales performance, customer behavior, and regional trends. An interactive dashboard was built using Microsoft Excel to convert raw data into meaningful business insights.
 
 ## Dashboard
-- <a href="https://github.com/Saloni-Kumari11/Data-Analysis-Dashboard/blob/main/Screenshot%20(4).png">View Dashboard</a>
+- <a href="https://github.com/Saloni-Kumari11/Data-Analysis-Dashboard/blob/main/SwiggyDatasetAnalysis.png">View Dashboard</a>
 #  Objective
 To analyze food order data and track key performance indicators (KPIs) such as Total Sales, Average Order Value, Total Orders, and Customer Ratings to support data-driven decision-making.
 
